@@ -1,1 +1,1 @@
-# Python-4
+File 7 contains Task 1: Read a File and Handle Errors. I used try and except for my program. Where in try i wrote the code and further in except if the file not found error occurs i would print the following statement.In code i opened the file named 'sample.txt' in read mode using var and then used two more var for the line 1 and line 2. then closed the file and usinf print I got the output.
